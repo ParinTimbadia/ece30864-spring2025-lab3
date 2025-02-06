@@ -1,1 +1,7 @@
-
+Q1a. Agile Pros/Cons:
+Pros:
+1.Dynamic changes are possible (not possible in other methodologies such as waterfall) 
+2. Customer value is created in each iteration rather than only at the very end of the development cycle.
+Cons: 
+1. Due to the iterative nature of agile development, more extensive documentation is required to keep track of all the changes that occur in each iteration. 
+2. The point when a project is complete or finished is less defined as teams always have the option to keep iterating, which could possibly create unnecessary work as teams are unsure about when to stop working on a particular task. 
