@@ -5,3 +5,7 @@ Pros:
 Cons: 
 1. Due to the iterative nature of agile development, more extensive documentation is required to keep track of all the changes that occur in each iteration. 
 2. The point when a project is complete or finished is less defined as teams always have the option to keep iterating, which could possibly create unnecessary work as teams are unsure about when to stop working on a particular task. 
+
+Q1b. Role and responsibilities of scrum master vs product owner: 
+Scrum master: The scrum master is the person who handles all the scrum related work, such as managing meetings (both cross team meetings and smaller stand ups) and sprints, ensuring Jira accurately reflects the state of the project, and generally handles tasks related to the scrum implementation of agile development.
+Product Owner: The product owner is the one who sets the direction for the project itself, handling what the future of the project is, along with dealing with stakeholders and what official releases of the product are actually made.
