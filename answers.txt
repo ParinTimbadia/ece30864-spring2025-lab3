@@ -12,3 +12,10 @@ Product Owner: The product owner is the one who sets the direction for the proje
 
 Q1c. 3 types of meetings:
 The 3 types of meetings that occur during a sprint cycle are the Sprint Planning meetings, daily Stand-up meetings, and Sprint Retrospective meetings. The Sprint Planning meetings occur before sprints themselves; they outline what work will be finished in the sprint, determining the complexity of the tasks to be done, and setting the sprint up in Jira (assigning story points, moving stories from backlog to the upcoming sprint, etc). The daily Stand-up meetings occur during a sprint, which are daily, short (10-15 mins) meetings where members of teams briefly meet to discuss work completed the previous day, their plan for what to complete that day, and any potential difficulties/blockers. The Sprint Retrospective meeting occurs at the end/after a sprint has been finished, discussing what work was completed, and moving anything that was not finished back into the backlog to be completed in a future sprint. The sprint is also closed in Jira.
+
+Q1d. Epic vs story vs bug vs task: 
+Note that all four are types of issues, or units of work, in Jira. 
+Epic: Epics are the largest body of work, generally large, high-level features that require multiple subsystems and smaller features that get integrated to complete the epic. 
+Story: Stories are the second largest issue, and generally outline a specific software requirement that can be expressed in one or a few sentences. 
+Bug: A bug is usually the smallest issue of work, and it generally blocks a different issue from being completed. Generally a specific functionality issue in a piece of code or few files.
+Task: A task is the second smallest issue. It is about implementing one specific software functionality, generally not a full feature like a story but one piece of functionality required for a feature.
